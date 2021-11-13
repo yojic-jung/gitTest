@@ -14,6 +14,7 @@ public class GitTestApplication {
 		//다섯번째커밋
 		//여섯번째커밋
 		//7커밋
+		//8커밋
 	}
 
 }
