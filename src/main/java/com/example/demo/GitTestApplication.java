@@ -13,6 +13,7 @@ public class GitTestApplication {
 		//네번째커밋
 		//다섯번째커밋
 		//여섯번째커밋
+		//7커밋
 	}
 
 }
