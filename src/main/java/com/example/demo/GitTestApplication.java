@@ -9,6 +9,7 @@ public class GitTestApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GitTestApplication.class, args);
 		//두번째 커밋
+		//세번째커밋
 	}
 
 }
