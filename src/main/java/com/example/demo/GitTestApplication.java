@@ -8,14 +8,6 @@ public class GitTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitTestApplication.class, args);
-		//두번째 커밋
-		//세번째커밋
-		//네번째커밋
-		//다섯번째커밋
-		//여섯번째커밋
-		//7커밋
-		//8커밋
-		//9커밋
 	}
 
 }
