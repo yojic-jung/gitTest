@@ -8,6 +8,7 @@ public class GitTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitTestApplication.class, args);
+		//변경사항 발생
 	}
 
 }
