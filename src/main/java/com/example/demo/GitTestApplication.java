@@ -8,6 +8,8 @@ public class GitTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitTestApplication.class, args);
+		
+		//develop 브랜치 소스 수정
 	}
 
 }
